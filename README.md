@@ -1,2 +1,2 @@
-# Kyrie-Irving-Stats
-This is a graph of the NBA player Kyrie Irving's Points per Game by age.
+# Basketball Reference Stats
+This is a web scraper for the site Basketball Reference to retrieve the per game data for any player with their url.
